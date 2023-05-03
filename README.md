@@ -1,4 +1,5 @@
 Erstelltes Projekt im Rahmen der Bachelorarbeit Angewandte Informatik der HTW Berlin
+
 Moodle Plugin für die Erstellung von Terminen zur Präsentation von Belegarbeiten im hochschulischen Umfeld.
 
 Dieses Plugin besteht aus einem Block, der individuell der Startseite hinzugefügt werden kann, einer Seite zur Verwaltung der Termine für Dozenten und  
